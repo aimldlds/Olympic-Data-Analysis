@@ -21,6 +21,5 @@ Demo:- https://olympic1896-2016-data-analysis.herokuapp.com/
 
 ![Screenshot (311)](https://user-images.githubusercontent.com/67510391/180658212-d9c81e5d-0b2e-4674-9171-cd2641c19ab7.png)
 
-![Screenshot (312)](https://user-images.githubusercontent.com/67510391/180658217-3937eae2-2cd5-406a-9660-826e0b6c971e.png)
 
 
